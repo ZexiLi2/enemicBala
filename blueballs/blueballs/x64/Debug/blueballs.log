@@ -1,0 +1,10 @@
+﻿  blueballs.cpp
+E:\AluCiclesGS1\zexilili\03 cplusplus\blueballs\blueballs\enemy.h(31,21): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  enemy.cpp
+E:\AluCiclesGS1\zexilili\03 cplusplus\blueballs\blueballs\enemy.h(31,21): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\03 cplusplus\blueballs\blueballs\enemy.cpp(30,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+E:\AluCiclesGS1\zexilili\03 cplusplus\blueballs\blueballs\enemy.cpp(40,16): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  game.cpp
+E:\AluCiclesGS1\zexilili\03 cplusplus\blueballs\blueballs\enemy.h(31,21): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  blueballs.vcxproj -> E:\AluCiclesGS1\zexilili\03 cplusplus\blueballs\x64\Debug\blueballs.exe
